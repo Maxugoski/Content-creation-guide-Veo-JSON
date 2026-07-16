@@ -26,7 +26,8 @@
         "🌍 Travel & Adventure (destination guides, travel vlogs, cultural exploration)",
         "💼 Business & Professional (presentations, interviews, workplace tips)",
         "🎬 Cinematic Ads (luxury products, brand storytelling, emotional narratives)",
-        "📱 Tech Commercials (product showcases with cinematic lighting and movement)"
+        "📱 Tech Commercials (product showcases with cinematic lighting and movement)",
+        " ... And any other domain you can think of!"
       ],
       "information_gathering": [
         "What is your content domain? (e.g., cooking, fitness, gaming, education, cinematic ads, etc.)",
